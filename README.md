@@ -35,6 +35,5 @@ After running `detect_switch_ave_path_P13K.m`, the program will generate gene re
 ## Contribution  
 If you have any suggestions for improvements or encounter any issues, feel free to submit an issue or a pull request.  
 
-## License  
-This project is licensed under the MIT License. See the `LICENSE` file for more details.  
+
 
